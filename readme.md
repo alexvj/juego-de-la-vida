@@ -5,7 +5,7 @@ un uso básico del elemento canvas en aplicaciones interactivas.
 
 ## Cómo ejecutarlo e instrucciones
 
-Puedes probarlo directamente en [alexvj.github.io](alexvj.github.io)
+Puedes probarlo directamente en [alexvj.github.io](https://alexvj.github.io/)
 
 ### Instrucciones de juego
 Es un juego de 0 jugadores, en el sentido de que simplemente evoluciona por si mismo a raíz de un estado inicial. No hay objetivo, es simplemente un simulador, un autómata celular.

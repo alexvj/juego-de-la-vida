@@ -65,7 +65,7 @@ function dibujarLinea(xor, yor, xdestino, ydestino) {
  * Dibuja todas las líneas en el canvas.
  * 
  * TAREA QUE OS ENCOMIENDO Nº 1.
- * Consíderese disponer de 2 canvas superpuestos del mismo tamaño. Las líneas
+ * Considera disponer de 2 canvas superpuestos del mismo tamaño. Las líneas
  * sólo se dibujan en el inferior, las casillas en el superior. De este modo
  * no es necesario redibujar todas las líneas en cada paso, pues sólo se
  * redibujan las celdas.
@@ -204,7 +204,7 @@ function calcularCelula(x,y) {
 
     
     // TAREA QUE OS ENCOMIENDO Nº 2.
-    // Consíderese crear la matriz de tamaño +2 horizontal y vertical dejando 
+    // Considera crear la matriz de tamaño +2 horizontal y vertical dejando 
     // un "marco" alrededor que nunca se utiliza como tal (sólo células muertas)
     // Implica mayor coste de memoria pero ahorraría todos los if para evitar 
     // desbordamientos. NOTA: habría que ajustar los bucles for para empezar 
